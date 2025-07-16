@@ -1,0 +1,11 @@
+.info {
+     position: absolute;
+     top: 30px;
+     left: 50%;
+     transform: translated(-50%);
+     color: rbga(255, 255, 255, 0,8) ;
+     font-size: 15px;
+     text-align: canter;
+     pointer-events: none;
+     text-shadow: 0 0 6px rgba(255,255,255,0.5);
+}
